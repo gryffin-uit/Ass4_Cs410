@@ -1,0 +1,6 @@
+__pycache__
+*.json
+runs/
+
+wandb/harouzie/vi_en-translation_weights/tmodel_19.pt
+harouzie/vi_en-translation_weights/tmodel_19.pt
